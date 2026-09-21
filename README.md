@@ -4,6 +4,8 @@
 ![modrinth](https://badges.moddingx.org/modrinth/downloads/arnavmcs-shader)<br>
 ![modrinth](https://badges.moddingx.org/modrinth/versions/arnavmcs-shader)<br>
 
+## <a href='https://modrinth.com/shader/arnavmcs-shader'><img src='https://avatars.githubusercontent.com/u/67560307' width='23px' height='23px'> [![ArnavMC's Shader](https://img.shields.io/badge/ArnavMC's_Shader-Download-blue?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8EAqEiKCkEgSo3B1FgaEFBhF16nzwRhqzqaorZuaPilXyVM4mN1KwvBK&s=10)](https://modrinth.com/shader/arnavmcs-shader) 
+
 ArnavMC's Shader is an lightweight Minecraft shaderpack designed for low-end devices, bringing high-end-inspired lighting, shadows, atmosphere, and visuals while keeping performance good. This will be a perfect choice for shaders on low-end devices as it was especialy made for your low-end devices and also gives a feeling of high-end shaders which run in terrible in your pc.
 
  ## No FPS loss!👍

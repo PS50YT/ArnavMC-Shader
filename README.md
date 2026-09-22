@@ -1,6 +1,6 @@
 # ArnavMC's Shader
 
-[![icon](https://cdn.modrinth.com/data/Z6zNuCPK/9ea2298e7f29fe01dfbf006c3874bc7e00d4ffc4_96.webp)](https://modrinth.com/shader/arnavmcs-shader)<br>
+[![icon](https://raw.githubusercontent.com/PS50YT/ArnavMC-Shader/refs/heads/main/0c424a770dc8b97f7be6bd87c579b420f7ade96f%20(1).jpg)](https://modrinth.com/shader/arnavmcs-shader)<br>
 ![modrinth](https://badges.moddingx.org/modrinth/downloads/arnavmcs-shader)<br>
 ![modrinth](https://badges.moddingx.org/modrinth/versions/arnavmcs-shader)<br>
 

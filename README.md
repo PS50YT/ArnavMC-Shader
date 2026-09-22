@@ -31,10 +31,10 @@ ArnavMC's Shader is an lightweight Minecraft shaderpack designed for low-end dev
 # ArnavMC's UltraLite Shader
 
 [![icon](https://cdn.modrinth.com/data/Z6zNuCPK/9ea2298e7f29fe01dfbf006c3874bc7e00d4ffc4_96.webp)](https://modrinth.com/shader/arnavmcs-shader)<br>
-![modrinth](https://badges.moddingx.org/modrinth/downloads/arnavmcs-shader)<br>
-![modrinth](https://badges.moddingx.org/modrinth/versions/arnavmcs-shader)<br>
+![modrinth](https://badges.moddingx.org/modrinth/downloads/arnavmcs-ultralite-shader)<br>
+![modrinth](https://badges.moddingx.org/modrinth/versions/arnavmcs-ultralite-shader)<br>
 
-## <a href='https://modrinth.com/shader/arnavmcs-shader'><img src='https://avatars.githubusercontent.com/u/67560307' width='23px' height='23px'> [![ArnavMC's Shader](https://img.shields.io/badge/ArnavMC's_Shader-Download-blue?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8EAqEiKCkEgSo3B1FgaEFBhF16nzwRhqzqaorZuaPilXyVM4mN1KwvBK&s=10)](https://modrinth.com/shader/arnavmcs-shader) 
+## <a href='https://modrinth.com/mod/arnavmcs-ultralite-shader'><img src='https://avatars.githubusercontent.com/u/67560307' width='23px' height='23px'> [![ArnavMC's Shader](https://img.shields.io/badge/ArnavMC's_Shader-Download-blue?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8EAqEiKCkEgSo3B1FgaEFBhF16nzwRhqzqaorZuaPilXyVM4mN1KwvBK&s=10)](https://modrinth.com/mod/arnavmcs-ultralite-shader) 
 
 An extremely lightweight and low-end shader for Minecraft but in a mod form. This mod would be a perfect choice for those players whose pc run in a terrible fps.
 
